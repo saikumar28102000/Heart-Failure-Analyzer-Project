@@ -85,27 +85,8 @@ Push code to Master Branch
 ```bash
   git push heroku master
 ```
-
   
-## Related
-
-Here are some related projects
+## Thank you ❤
 
 
-[Liver Disease](https://github.com/SagarDhandare/Liver-Disease-Prediction-Project)
 
-[Stroke Prediction](https://github.com/SagarDhandare/Stroke-Prediction-Project)
-
-[Diabetes Disease](https://github.com/SagarDhandare/Diabetes-Disease-Project)
-
-[Chronic Kidney Disease](https://github.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project)
-
-[Breast Cancer Disease](https://github.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project)
-  
-## Feedback
-
-If you have any feedback, please reach out to me at https://www.linkedin.com/in/sagardhandare/
-
-Please do ⭐ the repository, if you like this.😊
-
-Thank you ❤
