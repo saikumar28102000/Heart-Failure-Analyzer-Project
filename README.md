@@ -5,12 +5,8 @@ This repository consists of files required to deploy a Machine Learning Web App 
 
 #### If you want to view the deployed model, click on the following link:
 
-• https://heart-diseases-pred.herokuapp.com/
+• https://capstoneteam9.herokuapp.com/
 
-## Demo
-
-<img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif.gif">
-<img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif1.gif">
 
 ## Dataset
 
