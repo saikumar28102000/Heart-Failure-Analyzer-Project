@@ -18,10 +18,10 @@
         <!-- Result -->
 		<div class="results">
 			{% if prediction==1 %}
-				<h1><span class='danger'>Oops!<br><br>You have HEART DISEASE.</span></h1>
+				<h1><span class='danger'>Oops!<br><br>Your Heart is at risk!</span></h1>
 				<img class="gif" src="{{ url_for('static', filename='no.webp')}}" alt="HEART Image">
 			{% elif prediction==0 %}
-				<h1><span class='safe'>Congratulation!<br><br> You DON'T have HEART DISEASE.</span></h1>
+				<h1><span class='safe'>Congratulation!<br><br> You are Robust and stay in Good health.</span></h1>
 				<img class="gif1" src="{{ url_for('static', filename='yes.webp')}}" alt="Not HEART Image">
 			{% endif %}
 		</div>
