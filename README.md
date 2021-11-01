@@ -38,7 +38,7 @@ To run app, run the following command
   
 ## Screenshots
 
-![App Screenshot](https://github.com/saikumar28102000/CAPSTONE-PROJECT/blob/main/Images/screenshot.png)
+![App Screenshot](https://github.com/saikumar28102000/CAPSTONE-PROJECT/blob/main/final.jpg?raw=true)
 
   
 ## Deployment
